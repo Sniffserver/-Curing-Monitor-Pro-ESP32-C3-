@@ -25,6 +25,11 @@
 | **SHT40 Sensor** | `GPIO 6` | I2C SCL |
 | **SHT40 Power** | `3V3` | Power (+3.3V) |
 | **SHT40 Ground** | `GND` | Ground |
+| **0.42" OLED** | `GPIO 5` | I2C SDA |
+| **0.42" OLED** | `GPIO 6` | I2C SCL |
+| **0.42" OLED Power**| `3V3` | Power (+3.3V) |
+| **0.42" OLED Ground** | `GND` | Ground |
+
 ---
 
 ## 🛠 Advanced Features
